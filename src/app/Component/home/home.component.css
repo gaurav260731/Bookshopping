@@ -1,0 +1,75 @@
+
+.imageslider {
+  width:100%;
+  height:500px;
+  margin-top:15px;
+}
+
+.bookbysbjct {
+  background: #4ccc;
+  width:100%;
+  height:300px;
+}
+
+.bookhead {
+  text-align:center;
+  padding-top: 10px;
+  color:#fff;
+}
+
+.button_group {
+  display: inline-flex;
+  justify-content: center;
+  margin: auto;
+  width: 100%;
+  padding: 15px;
+}
+
+.btndat {
+  margin-right: 15px;
+  padding:10px;
+  background: #56c993;
+  color: #fff;
+  cursor: pointer;
+}
+
+.margin5 {
+  margin-right: 5px;
+}
+
+.bookauthors {
+  background:rgba(204, 68, 204, 0.8);
+  width:100%;
+  height:300px;
+}
+
+.heading {
+  text-align: center;
+  color: red;
+  margin: 30px;
+}
+
+.aboutprocess {
+  display: inline-flex;
+  margin: auto;
+  justify-content: center;
+  width: 100%;
+}
+
+.aboutlist {
+  list-style-type: none;
+}
+
+.aboutlist li {
+  padding: 5px;
+  color: green;
+  font-size: 15px;
+  margin-right: 55px;
+  font-weight: 800;
+  font-family: sans-serif;
+  cursor: pointer;
+}
+
+.aboutus {
+  margin: 100px;
+}
